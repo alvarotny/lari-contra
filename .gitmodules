@@ -1,0 +1,6 @@
+[submodule "ap_general"]
+	path = ap_general
+	url = git@github.com:alvarotny/ap_general.git
+[submodule "custom_addons/ap_general"]
+	path = custom_addons/ap_general
+	url = git@github.com:alvarotny/ap_general.git
